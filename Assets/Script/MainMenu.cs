@@ -12,7 +12,7 @@ public class MainMenu : MonoBehaviour
 
     public void GoBack () 
     {
-        Debug.Log("Игра закрылась");
+        Debug.Log("Приложение закрылось");
         Application.Quit();
     }
 }
